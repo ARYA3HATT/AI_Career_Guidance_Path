@@ -1,0 +1,7 @@
+id,name,type,city,state,programs,keywords,avg_tuition_per_year_inr,avg_accommodation_per_month_inr,avg_food_per_month_inr,other_costs_estimate_inr,admission_requirements,url,notes
+iitb,IIT Bombay,institute,Mumbai,Maharashtra,"Computer Science;Electrical;Mechanical","engineering;research;tech;cs",150000,18000,6000,20000,"JEE Advanced","https://www.iitb.ac.in","Top engineering institute; strong research"
+iisc,IISc Bangalore,institute,Bengaluru,Karnataka,"Research;MTech;MS by research","research;science;engineering",200000,18000,7000,25000,"GATE;INSPIRE","https://www.iisc.ac.in","Top science & research"
+du,University of Delhi,university,Delhi,Delhi,"Arts;Commerce;Science","arts;commerce;humanities",30000,15000,6000,12000,"DU merit / CUET","http://www.du.ac.in","Large public university, many colleges"
+nift,NIFT Delhi,college,New Delhi,Delhi,"Fashion Design;Textiles;Retail","design;fashion;textiles",80000,16000,6000,15000,"NIFT entrance","https://www.nift.ac.in","Top fashion institute"
+ftii,FTII Pune,school,Pune,Maharashtra,"Film Direction;Editing;Cinematography","film;media;tv",70000,12000,6000,20000,"FTII entrance","https://www.ftiindia.edu","Top film & media institute"
+nid,NID Ahmedabad,school,Ahmedabad,Gujarat,"Industrial Design;Product Design","design;industrial;ui",90000,14000,6000,15000,"NID DAT","https://www.nid.edu","Top design institute"
