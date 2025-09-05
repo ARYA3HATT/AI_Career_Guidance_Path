@@ -1,0 +1,31 @@
+/* We use the default index.css from Vite for base styles, 
+   so this file is for custom overrides and specific component styles. */
+
+   body {
+    /* Mantine handles the dark theme, but we can ensure a smooth font */
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji';
+  }
+  
+  .app-title {
+    /* A subtle gradient for our main title to make it pop */
+    background: linear-gradient(to right, #a0a0a0, #ffffff);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    padding-bottom: 5px;
+  }
+  
+  .profile-card {
+    /* Add a very subtle glow to the main form card on hover */
+    transition: box-shadow 0.3s ease-in-out;
+  }
+  
+  .profile-card:hover {
+    box-shadow: 0 0 15px rgba(130, 130, 255, 0.1);
+  }
+  
+  .recommendation-card {
+    /* A subtle background color to differentiate the recommendation cards */
+    background-color: rgba(255, 255, 255, 0.03);
+  }
+  
+  
